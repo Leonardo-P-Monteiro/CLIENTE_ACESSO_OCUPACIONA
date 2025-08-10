@@ -52,3 +52,31 @@ Minha formação em Administração de Empresas (**CRA-CE 20-89246**) foi um dif
 Este projeto é a prova de que a combinação de habilidades de gestão com conhecimento técnico pode gerar soluções muito mais eficazes e que realmente agregam valor ao negócio.
 
 Obs.: Por motivos contratuais e de segurança o código fonte não pode ser exibido em sua totalidade. 
+
+## SCREENSHOTS
+
+### Tela de Login:
+
+![Tela de Login](image.png)
+
+### Tela Home:
+
+![Home](image-1.png)
+
+### Tela de Resultados:
+
+![alt text](image-2.png)
+
+### Tela de Detalhes:
+
+![Tela 1](image-3.png)
+
+![Tela 2](image-4.png)
+
+### Tela Compêndio:
+
+![Tela da função compêndio](image-5.png)
+
+### Tela Manual do Usuário:
+
+![Manual do Usuário](image-7.png)
