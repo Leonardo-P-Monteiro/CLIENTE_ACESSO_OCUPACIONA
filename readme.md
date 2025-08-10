@@ -57,7 +57,7 @@ Obs.: Por motivos contratuais e de segurança o código fonte não pode ser exib
 
 ### Tela de Login:
 
-![Tela de Login](image.png)
+![Tela de Login](screenshots/image.png)
 
 ### Tela Home:
 
