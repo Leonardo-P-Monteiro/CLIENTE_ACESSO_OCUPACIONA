@@ -61,22 +61,22 @@ Obs.: Por motivos contratuais e de segurança o código fonte não pode ser exib
 
 ### Tela Home:
 
-![Home](image-1.png)
+![Home](screenshots/image-1.png)
 
 ### Tela de Resultados:
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
 ### Tela de Detalhes:
 
-![Tela 1](image-3.png)
+![Tela 1](screenshots/image-3.png)
 
-![Tela 2](image-4.png)
+![Tela 2](screenshots/image-4.png)
 
 ### Tela Compêndio:
 
-![Tela da função compêndio](image-5.png)
+![Tela da função compêndio](screenshots/image-5.png)
 
 ### Tela Manual do Usuário:
 
-![Manual do Usuário](image-7.png)
+![Manual do Usuário](screenshots/image-7.png)
